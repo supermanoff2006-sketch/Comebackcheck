@@ -6,7 +6,7 @@ import os
 # @BotFather se NAYA token yahan daalo (purana /revoke kar do).
 BOT_TOKEN = os.getenv("BOT_TOKEN", "9046759371:AAHfTsIppBHWSbLEYWQR-BCVyoxzAjtek4o")
 
-ADMIN_IDS = [8603893462]          # Admin numeric Telegram ID(s)
+ADMIN_IDS = [8999104355]          # Admin numeric Telegram ID(s)
 LOG_CHANNEL = -1004467924840      # Naye user ka alert channel (-100...), nahi chahiye to 0
 DB_PATH = "bot.db"                # Isko delete mat karna, saara data isi me hai
 
